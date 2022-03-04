@@ -24,7 +24,7 @@ export default function Home() {
           </p>
           <div className="mt-4 sm:mt-6">
             <a
-              className="inline-block sm:text-base bg-indigo-500 text-white px-5 py-3 shadow-lg rounded-lg uppercase tracking-wider font-semibold text-sm"
+              className=" active:bg-indigo-600 focus:ring focus:ring-offset-2 focus:ring-indigo-500 focus:ring-opacity-50 hover:bg-indigo-400 hover:-translate-y-0.5 transform transition inline-block sm:text-base bg-indigo-500 text-white px-5 py-3 shadow-lg rounded-lg uppercase tracking-wider font-semibold text-sm"
               href="#"
             >
               Book Your Escape
