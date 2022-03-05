@@ -9,10 +9,10 @@
     uppercase tracking-wider font-semibold text-sm;
   }
   .btn-primary {
-    @apply active:bg-indigo-600 
-    focus:ring-indigo-500 hover:bg-indigo-400 
+    @apply active:bg-brand-dark 
+    focus:ring-brand hover:bg-brand-light 
     sm:text-base 
-    bg-indigo-500 text-white;
+    bg-brand text-white;
   }
   .btn-secondary {
     @apply active:bg-gray-600 
